@@ -30,6 +30,7 @@ items.qc
 console.qc
 config.qc
 options.qc
+hud.qc
 subs.qc
 combat.qc
 ident.qc
@@ -44,5 +45,6 @@ buttons.qc
 triggers.qc
 plats.qc
 misc.qc
+spawn.qc
 fnstrings.qc
 hook.qc
